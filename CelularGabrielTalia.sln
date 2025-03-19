@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelularGabrielTalia", "CelularGabrielTalia\CelularGabrielTalia\CelularGabrielTalia.csproj", "{5E2687CD-F504-4939-9C67-B63D597471A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelularGabrielTalia.Droid", "CelularGabrielTalia\CelularGabrielTalia.Droid\CelularGabrielTalia.Droid.csproj", "{3307E09C-939E-40B1-91B0-F9C1553407BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelularGabrielTalia.WinUI", "CelularGabrielTalia\CelularGabrielTalia.WinUI\CelularGabrielTalia.WinUI.csproj", "{C8C17EE2-2249-4FB3-AA25-A4CD89D02E83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E2687CD-F504-4939-9C67-B63D597471A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2687CD-F504-4939-9C67-B63D597471A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2687CD-F504-4939-9C67-B63D597471A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2687CD-F504-4939-9C67-B63D597471A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3307E09C-939E-40B1-91B0-F9C1553407BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3307E09C-939E-40B1-91B0-F9C1553407BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3307E09C-939E-40B1-91B0-F9C1553407BD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3307E09C-939E-40B1-91B0-F9C1553407BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3307E09C-939E-40B1-91B0-F9C1553407BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3307E09C-939E-40B1-91B0-F9C1553407BD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C8C17EE2-2249-4FB3-AA25-A4CD89D02E83}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{C8C17EE2-2249-4FB3-AA25-A4CD89D02E83}.Debug|Any CPU.Build.0 = Debug|x64
+		{C8C17EE2-2249-4FB3-AA25-A4CD89D02E83}.Release|Any CPU.ActiveCfg = Release|x64
+		{C8C17EE2-2249-4FB3-AA25-A4CD89D02E83}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
